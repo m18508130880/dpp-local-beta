@@ -1,0 +1,40 @@
+﻿#----------------------------------------Windows--------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.dll
+
+#----------------------------------------Python---------------------------------------------
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+#------------------------------------Java & JavaWeb-----------------------------------------
+# 产生.class 的 bin 文件夹
+bin/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Web项目的 二进制文件等
+images/
+img/
+cab/
+*.gif
+*.jpg
+*.jepg
+*.png
+
+# files 等上传文件夹
+files/
+*.xlsx
+*.xls
+
+*.zip
+*.rar
